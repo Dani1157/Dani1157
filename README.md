@@ -2,7 +2,12 @@
 
 <div align="center">
 
-## ✨ Design Engineer • Creative Developer • ✨
+## ✨ Design Engineer • Creative Developer • AI Explorer ✨
+
+<br>
+
+<!-- ANIMATED TYPING TEXT -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Design+Engineer;Creative+Developer;AI+Explorer;Problem+Solver)](https://git.io/typing-svg)
 
 <br>
 
@@ -14,57 +19,75 @@
 
 <br>
 
-<!-- TECH STACK BADGES -->
-### 🛠️ Tech Stack
+<!-- TROPHY CASE -->
+## 🏆 GitHub Trophies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![trophy](https://github-profile-trophy.vercel.app/?username=Dani1157&theme=onedark&column=7&no-frame=true&no-bg=true)
 
 <br>
 
-<!-- AI TOOLS BADGES -->
-### 🤖 AI Tools I Use
+<!-- STATS ROW -->
+## 📊 GitHub Stats
 
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Firefly](https://img.shields.io/badge/Firefly-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-6A1B9A?style=for-the-badge&logo=github&logoColor=white)
-![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)
+![stats](https://github-readme-stats.vercel.app/api?username=Dani1157&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dani1157&layout=compact&theme=tokyonight&hide_border=true)
 
 <br>
-
-<!-- GITHUB STATS CARDS -->
-### 📊 GitHub Stats
-
-![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dani1157&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dani1157&layout=compact&theme=tokyonight&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dani1157&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <br>
 
-<!-- FEATURED PROJECTS -->
-### 🚀 Featured Projects
+<!-- ACTIVITY GRAPH -->
+## 📊 Activity Graph
 
-[![Drimify Demo](https://github-readme-stats.vercel.app/api/pin/?username=Dani1157&repo=drimify-case-study&theme=tokyonight&hide_border=true)](https://github.com/Dani1157/drimify-case-study)
-[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Dani1157&repo=my-portfolio&theme=tokyonight&hide_border=true)](https://github.com/Dani1157/my-portfolio)
-[![Vinyl Desk](https://github-readme-stats.vercel.app/api/pin/?username=Dani1157&repo=Vinyl-Desk&theme=tokyonight&hide_border=true)](https://github.com/Dani1157/Vinyl-Desk)
-[![NEXUS CSS](https://github-readme-stats.vercel.app/api/pin/?username=Dani1157&repo=-AI-Chat-Interface&theme=tokyonight&hide_border=true)](https://github.com/Dani1157/-AI-Chat-Interface)
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=Dani1157&theme=react-dark&hide_border=true&area=true)
+
+<br>
+
+<!-- VISITOR COUNTER -->
+## 👀 Profile Views
+
+![views](https://komarev.com/ghpvc/?username=Dani1157&color=blue&style=flat-square&label=Profile+Views)
+
+<br>
+
+<!-- QUOTE OF THE DAY -->
+## 💭 Random Dev Quote
+
+![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br>
+
+<!-- FEATURED PROJECTS -->
+## 🚀 Featured Projects
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| 🎵 **Vinyl Desk** | Virtual record player with collectible fish | [![Repo](https://img.shields.io/badge/Repo-000?style=flat&logo=github)](https://github.com/Dani1157/Vinyl-Desk) [![Live](https://img.shields.io/badge/Live-8B5CF6?style=flat&logo=vercel)](https://dani1157.github.io/Vinyl-Desk/) |
+| 🤖 **NEXUS CSS** | AI-powered CSS learning assistant | [![Repo](https://img.shields.io/badge/Repo-000?style=flat&logo=github)](https://github.com/Dani1157/-AI-Chat-Interface) [![Live](https://img.shields.io/badge/Live-00fff5?style=flat&logo=vercel)](https://dani1157.github.io/-AI-Chat-Interface/) |
+| 🧹 **S&R Cleaning** | Business website with 100 Lighthouse score | [![Repo](https://img.shields.io/badge/Repo-000?style=flat&logo=github)](https://github.com/Dani1157/Cleaning-Web) [![Live](https://img.shields.io/badge/Live-ff79c6?style=flat&logo=vercel)](https://dani1157.github.io/Cleaning-Web/) |
+| 🎮 **Drimify Demo** | AI Component Studio for job application | [![Repo](https://img.shields.io/badge/Repo-000?style=flat&logo=github)](https://github.com/Dani1157/drimify-case-study) [![Live](https://img.shields.io/badge/Live-8B5CF6?style=flat&logo=vercel)](https://drimify-case-study.vercel.app) |
+
+<br>
+
+<!-- WEATHER WIDGET -->
+## 🌤️ Weather in London
+
+![weather](https://wttr.in/London.png?m)
+
+<br>
+
+<!-- SUPPORT BUTTONS -->
+## ☕ Support Me
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YOUR_USERNAME)
 
 <br>
 
 <!-- CONNECT WITH ME -->
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dani-dudley-59776026b)
 [![Portfolio Vercel](https://img.shields.io/badge/Portfolio%20(Vercel)-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-one-gamma-92.vercel.app)
@@ -73,8 +96,15 @@
 [![Email](https://img.shields.io/badge/Email-Dazai48@yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Dazai48@yahoo.com)
 
 <br>
+
+<!-- SNAKE GAME - WILL APPEAR HERE ONCE WORKFLOW RUNS -->
+## 📈 Contribution Graph
+
+![snake gif](https://github.com/Dani1157/Dani1157/blob/output/github-contribution-grid-snake-dark.svg)
+
 <br>
 
+<!-- FOOTER -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
