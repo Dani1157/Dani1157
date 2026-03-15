@@ -259,7 +259,6 @@ Play right here in my profile! Use **A** (left) and **D** (right) to move, **SPA
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-</div>
 **Dani1157/Dani1157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -273,3 +272,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
