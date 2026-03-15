@@ -75,14 +75,6 @@
 <br>
 <br>
 
-
-<div align="center">
-  <p><kbd>A</kbd> Move Left • <kbd>D</kbd> Move Right • <kbd>SPACE</kbd> Shoot • <kbd>R</kbd> Restart</p>
-  <p>⭐ Score: <span id="scoreDisplay">0</span> • Defeat all enemies to win!</p>
-</div>
-
-<br>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
