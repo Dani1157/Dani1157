@@ -19,13 +19,6 @@
 
 <br>
 
-<!-- TROPHY CASE -->
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Dani1157&theme=onedark&column=7&no-frame=true&no-bg=true)
-
-<br>
-
 <!-- STATS ROW -->
 ## 📊 GitHub Stats
 
