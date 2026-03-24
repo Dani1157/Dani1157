@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## ✨ Design Engineer • Creative Developer • AI Explorer ✨
+## ✨ Design Engineer • Creative Developer ✨
 
 <br>
 
